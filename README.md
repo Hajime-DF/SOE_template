@@ -1,6 +1,6 @@
-# Template PI1
+# Template SOE
 
-![Calendário 2026/2](https://github.com/fcte-pi1/template/blob/main/docs/figs/Calendario.png?raw=true)
+![Calendário](https://raw.githubusercontent.com/DiogoCaetanoGarcia/Sistemas_Embarcados/refs/heads/master/Calendario.jpg)
 
 Esse é o _template_ de repositório para ser utilizado pelos grupos de SOE para organizar seu projeto. O _template_ é dividido em pastas, onde cada parte do projeto deve ser armazenada. Os arquivos a serem armazenados incluem documentação, código-fonte, arquivos de CAD, esquemáticos, arquivos de simulação de circuitos, e dados.
 
