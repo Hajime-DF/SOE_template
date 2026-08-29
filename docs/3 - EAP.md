@@ -46,7 +46,7 @@
 
 # | 3.4 | Atuadores | Transdutor acústico para emissão de alerta sonoro ao motorista. | Buzzer Ativo 5V (Piezocélula Sonora) | Emite sinal sonoro de emergência ao confirmar microsono. |
 
-# | 3.5 | Transmissão | Chicotes e cabos para conexão entre os módulos. | Cabo USB blindado e jumpers de conexão GPIO | Interconecta câmera, placa de processamento e circuito. |  
+# | 3.5 | Transmissão | Chicotes e cabos para conexão entre os módulos. | Cabo USB blindado e jumpers de conexão GPIO | Interconecta câmera, placa de processamento e circuito. |   
 
 # | 3.6 | Rodas/Hélices | N/A (Sistema fixo instalado na cabine do caminhão) | N/A | Não se aplica a sistemas de monitoramento estáticos. |
 
