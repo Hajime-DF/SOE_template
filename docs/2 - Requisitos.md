@@ -2,7 +2,7 @@
 
 # | :--- | :--- | :--- | :--- | :--- | :--- |
 
-# | RF01 | Captura de Vídeo V4L2 | O sistema deve capturar o fluxo de vídeo da câmera SmartCam S600 via API Video4Linux2 (V4L2) em resolução 640x480 a 30 FPS. | Alta | Vinícius | Executado na capture\_thread. | 
+# | RF01 | Captura de Vídeo V4L2 | O sistema deve capturar o fluxo de vídeo da câmera SmartCam S600 via API Video4Linux2 (V4L2) em resolução 640x480 a 30 FPS. | Alta | Vinícius | Executado na capture\_thread. |  
 
 # | RF02 | Detecção de Marcos Faciais | O algoritmo deve localizar o rosto do condutor e extrair os pontos anatômicos dos olhos e da face em tempo real. | Alta | Gabriel | Módulo de visão em C/C++. |
 

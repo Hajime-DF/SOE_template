@@ -1,12 +1,12 @@
 # \# Termo de Abertura do Projeto (TAP)
 
-# 
+# &#x20;
 
-# \*\*Nome do Projeto:\*\* Driver Drowsiness \& Distraction Detection System (DMS)  
+# \*\*Nome do Projeto:\*\* Driver Drowsiness \& Distraction Detection System (DMS)
 
-# \*\*Data de Início:\*\* 23/08/2026  
+# \*\*Data de Início:\*\* 23/08/2026
 
-# \*\*Data de Término:\*\* 04/12/2026  
+# \*\*Data de Término:\*\* 04/12/2026
 
 # 
 
